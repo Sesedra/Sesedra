@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail: nyainarabemanantsoa@gmail.com
--                       facebook: Sedra Rabe
--                       instagram: sedra_rabe
+                       facebook: Sedra Rabe
+                       instagram: sedra_rabe
 
 <!---
 Sesedra/Sesedra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
