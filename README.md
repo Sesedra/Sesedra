@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sesedra
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : mail: nyainarabemanantsoa@gmail.com
                        facebook: Sedra Rabe
                        instagram: sedra_rabe
