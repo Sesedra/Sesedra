@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sesedra
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m an UX/UI Designer and Student at 42 Antananarivo
+- 💞️ I’m looking to collaborate to bring your ideas to reality
 - 📫 How to reach me : mail: nyainarabemanantsoa@gmail.com
                        facebook: Sedra Rabe
                        instagram: sedra_rabe
